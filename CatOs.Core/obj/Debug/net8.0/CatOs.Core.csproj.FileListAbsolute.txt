@@ -1,0 +1,11 @@
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\bin\Debug\net8.0\CatOs.Core.deps.json
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\bin\Debug\net8.0\CatOs.Core.dll
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\bin\Debug\net8.0\CatOs.Core.pdb
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\CatOs.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\CatOs.Core.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\CatOs.Core.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\CatOs.Core.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\CatOs.Core.dll
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\refint\CatOs.Core.dll
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\CatOs.Core.pdb
+C:\Users\bruno\source\repos\Martins334\CatOs-Production\CatOs.Core\obj\Debug\net8.0\ref\CatOs.Core.dll
